@@ -41,4 +41,4 @@ Here's a breakdown of what you might typically find in such a repository:
 
 In summary, a Spring Boot boilerplate repository is a valuable starting point for any Spring Boot project, offering a well-structured and pre-configured foundation that allows developers to focus on the core business logic rather than spending time on initial setup and common configurations. The specific features included can vary, so it's important to choose a boilerplate that aligns with the requirements of your project.
 
-Above info is given by `Gemini` feel free read it. maintained by [A Vidhan R](https://linkedin.com/in/AVidhanR)
+Above info is given by `Gemini` feel free to read it. maintained by [A Vidhan R](https://linkedin.com/in/AVidhanR)
