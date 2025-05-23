@@ -1,4 +1,4 @@
-package com.vidhan.demo;
+package com.vidhan.demo.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
